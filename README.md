@@ -1,7 +1,7 @@
-ZrcListView
+ListItemMenu
 ===========
 
-一个顺滑又漂亮的Android下拉刷新与加载更多列表组件。
+一个简单的仿IOS的列表项的滑动菜单。
 
 ### 仿iOS列表项滑动菜单: ###
     1.滑动出现菜单，越界阻尼效果；
@@ -46,4 +46,4 @@ ZrcListView
 ```
 
 ##Screenshots
-![Screenshot](https://raw.github.com/zarics/ListItemMenu/master/Screenshots/screenshot.png)
+![Screenshot](https://raw.github.com/zarics/ListItemMenu/master/Screenshots/screenshot.jpg)
